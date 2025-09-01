@@ -1,0 +1,7 @@
+.venv
+src/__pycache__/
+tests
+storage
+alembic
+.env
+src/*/__pycache__

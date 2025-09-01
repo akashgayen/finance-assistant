@@ -1,0 +1,16 @@
+fastapi==0.111.0
+uvicorn[standard]==0.30.0
+sqlalchemy==2.0.31
+psycopg[binary]==3.2.1
+alembic==1.13.2
+pydantic==2.8.2
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-multipart==0.0.9
+pydantic-settings==2.3.4
+pytesseract==0.3.13
+opencv-python==4.10.0.84
+camelot-py[cv]==0.11.0
+pdfminer.six==20240706
+pypdf2==3.0.1
+pandas==2.2.2
